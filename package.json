@@ -1,8 +1,8 @@
 {
-	"name": "𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿",
+	"name": "MrUzairXxX",
 	"version": "2.0.1",
-	"description": "A simple Facebook Messenger Bot By 𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿-𝑴𝑻𝑿",
-	"main": "𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿.js",
+	"description": "A simple Facebook Messenger Bot By MrUzairXx",
+	"main": "MrUzairXxX.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
@@ -16,16 +16,16 @@
 		"bot",
 		"facebook",
 		"projectmirai",
-		"MrUzairXxX-MTX",
+		"Uzairrajput",
 		"mirai",
 		"catalizcs",
 		"spermlord",
 		"miraipr0ject",
 		"MrUzairXxX",
-		"uzairrajput",
-		"UzairRajput"
+		"MrUzairXxX-MTX",
+		"uzairrajput"
 		],
-	"author": "Uzair",
+	"author": "MrUzairXxX",
 	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/Uzairajput/uzairbypass/issues"
